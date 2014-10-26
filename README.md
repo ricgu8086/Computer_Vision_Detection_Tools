@@ -25,8 +25,8 @@ In some cases, you should need to edit the `Makefile` to update the paths used i
 
 Notes
 =====
-The NMS implemented is a C++ - ported version from Tomasz Malisiewicz's version of Non-Maximum Suppression algorithm based on Pedro Felzenszwalb's.
-The default parameter for overlap is 0.5, the same used in Pascal Voc Challenge database.
+The NMS implemented is a C++ - ported version from Tomasz Malisiewicz's Matlab-version of Non-Maximum Suppression algorithm based on Pedro Felzenszwalb's.
+(The default parameter for overlap is 0.5, the same used in Pascal Voc Challenge database)
 
 [1] http://agamenon.tsc.uah.es/Investigacion/gram/
 
